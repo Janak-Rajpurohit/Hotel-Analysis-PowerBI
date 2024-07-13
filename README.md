@@ -64,6 +64,9 @@ This file contains all the meta information regarding the columns described in t
 - **RevPAR (Revenue Per Available Room)**: RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue-generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
 - **ADR (Average Daily Rate)**: Revenue per booking.
 
+![Screenshot 2024-07-13 191952](https://github.com/user-attachments/assets/3d7b106c-b30b-41d1-96d9-7639d59aae40)
+
+
 ## Insights
 ### Revenue with Room Class
 - Elite Rooms are generating more revenue than others, as they are reasonably priced and provide better living conditions.
@@ -72,24 +75,30 @@ This file contains all the meta information regarding the columns described in t
 - The company should provide some extra facilities and advertise them to retain Elite customers.
 - Cancellation rates for Presidential and Premium rooms are higher compared to others.
 - The company is lacking feedback data; they should ask for feedback upon cancellation to improve their services.
+![Screenshot 2024-07-13 195934](https://github.com/user-attachments/assets/a7ca164a-6431-4132-aceb-338c7fa6a857)
 
 ### Hotel Location
 - Mumbai, with a good number of hotels, generates the most revenue, followed by a few hotels in Delhi with 60% occupancy.
 - Bangalore and Hyderabad generate very low revenue with 40% occupancy.
 - Cancellation rates are almost the same across all hotels, around 24%.
+![Screenshot 2024-07-13 200641](https://github.com/user-attachments/assets/0edb5378-fa57-42cc-9771-354a4004ce37)
 
 ### Business and Luxury Category Hotels
 - Despite having almost the same occupancy rates, Luxury hotels generate more revenue than Business class hotels. However, the ADR (Average Daily Rate) for Business class hotels is higher than that for Luxury ones.
 - This indicates that Business class hotels are more expensive and most people prefer staying in Luxury ones.
+![Screenshot 2024-07-13 204741](https://github.com/user-attachments/assets/dc6708c9-f97d-4788-8503-096227336e8f)
 
 ### Platforms
 - Overall, offline bookings have a higher ADR than online platforms like LogTrip and MakeYourTrip.
 - The ADR for direct online bookings from the hotel website is very low.
 - The company should offer discounts and promotions on their website to attract more customers, resulting in no intermediary platforms taking a cut.
+![Screenshot 2024-07-13 204727](https://github.com/user-attachments/assets/bde0b0d9-51a1-42f1-9aff-88e812bfbe3f)  
 
 ### Pricing
 - While RevPAR fluctuates, ADR remains flat and constant, even on weekdays and weekends. This indicates that the hotel has flat pricing, with the same room rates on weekdays and weekends. They should increase prices on weekends due to higher demand.
 - The hotel’s profit could overall increase by switching to weekday/weekend pricing or dynamic pricing. Dynamic pricing can be based on occupancy, weather, competition, etc.
+!![Screenshot 2024-07-13 204713](https://github.com/user-attachments/assets/599a9b44-58ce-499e-9652-48198251cfc3)
+
 
 ## Author
 Janak Rajpurohit
